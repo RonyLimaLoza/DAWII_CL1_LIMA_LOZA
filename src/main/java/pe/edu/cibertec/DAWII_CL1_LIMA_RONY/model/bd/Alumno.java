@@ -24,4 +24,5 @@ public class Alumno {
     @JoinColumn(name = "idesp")
     private Especialidad especialidad;
 
+
 }
